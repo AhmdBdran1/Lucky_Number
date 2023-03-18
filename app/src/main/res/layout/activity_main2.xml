@@ -11,7 +11,7 @@
         android:id="@+id/tv3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="232dp"
+        android:layout_marginTop="12dp"
         android:text="Your Lucky Number is :"
         android:textAlignment="center"
         android:textColor="#1B5F00"
@@ -20,13 +20,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.495"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/imageView" />
 
     <TextView
         android:id="@+id/tv2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="52dp"
         android:text="888"
         android:textColor="#337A17"
         android:textSize="48sp"
@@ -40,7 +40,7 @@
         android:id="@+id/bt2"
         android:layout_width="wrap_content"
         android:layout_height="65dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="120dp"
         android:background="@drawable/btnshape"
         android:paddingLeft="10dp"
         android:paddingTop="10dp"
@@ -53,6 +53,16 @@
         app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/tv2" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="169dp"
+        android:layout_height="163dp"
+        android:layout_marginTop="168dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/b" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

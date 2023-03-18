@@ -63,6 +63,9 @@ public class MainActivity2 extends AppCompatActivity {
 
 
     }
+
+
+    // function for take a capture of the screen and share it with others
     private void shareScreenAsImage() {
         try {
             // Capture the screen as a Bitmap
@@ -100,6 +103,8 @@ public class MainActivity2 extends AppCompatActivity {
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
+
+        // delete the image from the storage after we share
 
         if (requestCode == SHARE_REQUEST_CODE) {
             // Delete the image file from the external cache directory
