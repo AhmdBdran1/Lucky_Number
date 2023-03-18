@@ -16,7 +16,7 @@ Simple java Android app that choose random number as lucky number for the User ,
 
 
 
-![3](/img/1679155680793.JPG)
+![3](/img/1679155680793.jpg)
 
 
 
