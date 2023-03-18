@@ -3,14 +3,14 @@ Simple java Android app that choose random number as lucky number for the User ,
 
 
 
-![1](/img/1679155680801.JPG)
+![1](/img/1679155680801.jpg)
 
 
 
 
 
 
-![2](/img/1679155680797.JPG)
+![2](/img/1679155680797.jpg)
 
 
 
@@ -22,4 +22,4 @@ Simple java Android app that choose random number as lucky number for the User ,
 
 
 
-![4](/img/1679155680790.JPG)
+![4](/img/1679155680790.jpg)
