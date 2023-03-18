@@ -3,23 +3,23 @@ Simple java Android app that choose random number as lucky number for the User ,
 
 
 
-![](/img/1679155680801.JPG)
+![1](/img/1679155680801.JPG)
 
 
 
 
 
 
-![](/img/1679155680797.JPG)
+![2](/img/1679155680797.JPG)
 
 
 
 
 
-![](/img/1679155680793.JPG)
+![3](/img/1679155680793.JPG)
 
 
 
 
 
-![](/img/1679155680790.JPG)
+![4](/img/1679155680790.JPG)
