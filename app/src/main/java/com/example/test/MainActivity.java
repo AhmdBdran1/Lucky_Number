@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
         btn=(Button)findViewById(R.id.bt1);
 
 
+
+
         // define onClickListener for the sign in button
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
